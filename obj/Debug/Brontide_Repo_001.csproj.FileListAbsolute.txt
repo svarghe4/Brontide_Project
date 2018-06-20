@@ -1,0 +1,17 @@
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\bin\Debug\Brontide_Repo_001.exe.config
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\bin\Debug\Brontide_Repo_001.exe
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\bin\Debug\Brontide_Repo_001.pdb
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.csprojResolveAssemblyReference.cache
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.FRM.FRM001_LOGIN.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.FRM.FRM002_Home.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.FRM.FRM003_AddPatient.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.FRM.FRM004_SearchPatient.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.FRM.FRM005_Dashboard.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.FRM.FRM006_HomeAdmin.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.FRM.FRM007_DashboardAdmin.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.Properties.Resources.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.User_Controls.MenuButton.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.User_Controls.PatientProfile.resources
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.csproj.GenerateResource.Cache
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.exe
+F:\BRONTIDE\Projects\Brontide_Repo_001\Brontide_Repo_001\obj\Debug\Brontide_Repo_001.pdb
