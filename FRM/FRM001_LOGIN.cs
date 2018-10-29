@@ -17,7 +17,6 @@ namespace Brontide_Repo_001.FRM
         {
             InitializeComponent();
         }
-        MenuButton .
 
          private void btn_login_Click(object sender, EventArgs e)
         {
